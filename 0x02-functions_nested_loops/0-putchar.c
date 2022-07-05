@@ -1,8 +1,7 @@
 #include "main.h"
 
 /** main - prints putchar
- * followed by new line 
- */
+ * followed by new line */
 int main(void)
 {
 	_putchar('_');
@@ -17,4 +16,3 @@ int main(void)
 
 	return (0);
 }
-
