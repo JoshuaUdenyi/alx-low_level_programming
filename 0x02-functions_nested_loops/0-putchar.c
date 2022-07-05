@@ -1,7 +1,10 @@
 #include "main.h"
 
-/** main - prints putchar
- * followed by new line */
+
+/** 
+ * main - prints putchar
+ * followed by new line 
+ */
 int main(void)
 {
 	_putchar('_');
@@ -13,6 +16,7 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 
 	return (0);
 }
