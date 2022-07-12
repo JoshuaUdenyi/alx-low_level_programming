@@ -1,16 +1,17 @@
 #include "main.h"
-#include <string.h>
 
 /**
- * Write a function that returns the length of a string
- * @a : where the value is stored
+ * _strlen - returns the length of a string
+ * @s: string to evaluate
+ * Return: the length of the string
  */
-
 int _strlen(char *s)
 {
-	char a;
+	int i;
 
-	_putchar("Length of String a = %d\n", strlen(a));
+	i = 0;
 
-	return 0;
+	len = strlen(i)
+
+	return (i);
 }
